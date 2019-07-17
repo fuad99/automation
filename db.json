@@ -1,0 +1,8 @@
+{
+  "devices": [
+    { "id": 1, "name": "Rawon", "image": 100 },
+    { "id": 2, "name": "Gado-gado", "image": 100 },
+    { "id": 3, "name": "Indomie", "image": 100 },
+    { "id": 4, "name": "Sate", "image": 100 }
+  ]
+}
