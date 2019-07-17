@@ -1,8 +1,8 @@
 {
   "devices": [
-    { "id": 1, "name": "Rawon", "image": 100 },
-    { "id": 2, "name": "Gado-gado", "image": 100 },
-    { "id": 3, "name": "Indomie", "image": 100 },
-    { "id": 4, "name": "Sate", "image": 100 }
+    { "id": 1, "name": "Lampu", "image": "R.drawable.lamp" },
+    { "id": 2, "name": "Air Conditioner", "image": "R.drawable.ac" },
+    { "id": 3, "name": "Microwave", "image": "R.drawable.microwave" },
+    { "id": 4, "name": "Televisi", "image": "R.drawable.television" }
   ]
 }
